@@ -4,7 +4,6 @@ import Header from './routes/landing/Header.js'
 import Footer from './components/footer/Footer'
 import {
   About,
-  Blog,
   Cart,
   Checkout,
   Contact,
@@ -513,7 +512,6 @@ export default class App extends React.Component {
             }
           />
           <Route path="/contact" element={<Contact />} />
-          <Route path="/blog" element={<Blog />} />
           <Route path="/about" element={<About />} />
           <Route path="/register" element={<Register />} />
           <Route

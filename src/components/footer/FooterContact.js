@@ -11,7 +11,7 @@ export default class FooterContact extends React.Component {
       <section className="footer-contact  flex-container flex-column">
         <h3>Have questions?</h3>
         <div>
-          <p>000 (000) 123 4567</p>
+          <p>+91 869797979</p>
         </div>
         <div>
           <p>pizza@pizzatime.com</p>

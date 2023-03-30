@@ -8,7 +8,6 @@ import "./core-ui/leaflet.css";
 import './routes/menu/Menu.css'
 import './routes/contact/Contact.css'
 import './routes/about/AboutUs.css'
-import './routes/blog/Blog.css'
 import './routes/cart/Cart.css'
 import './routes/registration/Register.css'
 import './routes/passRecovery/PasswordRecovery.css'

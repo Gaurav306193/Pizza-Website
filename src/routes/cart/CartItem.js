@@ -41,7 +41,7 @@ const CartItem = ({ successMsg,
                     successMsg={successMsg}
                   />
 
-                  <p className="cart-item-price">${cartItem.ItemPrice}</p>
+                  <p className="cart-item-price">Rs.{cartItem.ItemPrice}</p>
                 </section>
               </section>
             </article>

@@ -101,15 +101,15 @@ export default class MenuItem extends React.Component {
         <div className="price">
 
           {singleProduct.sale === true ? <section className="sale-pricing">  <p className="price-num-before">
-            <span>$</span>
+            <span>Rs.</span>
             {singleProduct.ItemPriceBefore}
           </p> <p className="price-num">
-              <span>$</span>
+              <span>Rs.</span>
               {singleProduct.ItemPrice}
             </p>      </section> :
             <section>
               <p className="price-num">
-                <span>$</span>
+                <span>Rs.</span>
                 {singleProduct.ItemPrice}
               </p>
             </section>}
